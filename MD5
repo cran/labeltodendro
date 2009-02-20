@@ -1,0 +1,16 @@
+2f55e4b054f5f5c091985504c612dff4 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+b3e45bf9b696b14a47c90ddf42aafd6c *R/labeltodendro.R
+55bbbe5e0eb8bbe1bcf60327b196d744 *R/zzz.R
+e87d9df222aa4394b2467f2eba5cffe1 *man/colorplot.Rd
+cd6b6ce648012481cb0d2f71b00219d7 *man/is.aggvec.Rd
+463148a69263362af03d1acd285ed81d *man/labclust.Rd
+1714ce488b41f026b9aa7d9e5345d76b *man/labeltodendro.Rd
+747da1d94cf9d3533d240f321ec43ee1 *man/labeltotable.Rd
+0a2ac76a907b68973dc01f209d44fb28 *man/plot.labclust.Rd
+d5267d1853c68cda7fc3432dc2e1aeaf *man/relabel.Rd
+446a63e3e9591d0f86ab037c113b539a *man/relabel.matrix.Rd
+6b5a869056ede229cd8550ca5b5c722b *man/selectlabels.Rd
+b094568d34b47461f9f8dceaeac28ef8 *man/tabletodendro.Rd
+341e2ca0c78a52cc6b895b1410c76e1d *src/count.c
+2cefd69c2fa59a07b12f76ef321771d3 *src/m_relabel.c
