@@ -1,7 +1,8 @@
-2f55e4b054f5f5c091985504c612dff4 *DESCRIPTION
+a3d9d0d0c492a4ab82376a24fc115fdc *DESCRIPTION
 9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
-b3e45bf9b696b14a47c90ddf42aafd6c *R/labeltodendro.R
-55bbbe5e0eb8bbe1bcf60327b196d744 *R/zzz.R
+0840082708838c7a549294099f2cb513 *R/labeltodendro.R
+ad95fd6c508bb9f63949e8248ccdeb90 *R/zzz.R
+453be79e01385f3db11cf81fb0791c9b *inst/CITATION
 e87d9df222aa4394b2467f2eba5cffe1 *man/colorplot.Rd
 cd6b6ce648012481cb0d2f71b00219d7 *man/is.aggvec.Rd
 463148a69263362af03d1acd285ed81d *man/labclust.Rd
